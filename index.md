@@ -45,9 +45,9 @@ collaboratifs et locaux avec des morceaux de carte dedans.
 
       À partir d'un site web existant, je mets en oeuvre les technos sig web (leaflet, osm) pour en afficher le contenu géolocalisé sur des cartes interactives.
 
-## Plus d'information
+## Pour plus d'information
 
-### sur mes profils web
+### visitez mes profils web
 
 - [linkedin](http://fr.linkedin.com/in/richardhitier/)
 - [twitter](https://twitter.com/richardhitier)
@@ -55,11 +55,11 @@ collaboratifs et locaux avec des morceaux de carte dedans.
 - [osm](https://www.openstreetmap.org/user/RichardHitier)
 - [umap](http://umap.openstreetmap.fr/en/user/RichardHitier/)
 
-### sur mon cv:
+### consultez mon cv:
 
 - [long](http://richardhitier.co-libri.org/richard_hitier.pdf)
 
-### ou par contact direct:
+### contactez moi directement:
 
 mèl: richard.hitier@co-libri.org
 
