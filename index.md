@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Développement web agile pour la vie locale"
+title: "Développeur Éclectique"
 description: ""
 ---
 {% include JB/setup %}
@@ -8,14 +8,13 @@ description: ""
 
 ## Bonjour,
 
-Je suis développeur spécialisé en environnement
-GNU/Linux depuis 18 ans et je construis des applications
-robustes et évolutives avec les technologies du Logiciel
-Libre.
+Je suis spécialisé en environnement GNU/Linux depuis 18 ans
+et je construis des systèmes robustes et évolutifs avec les
+technologies du Logiciel Libre.
 
 Le coeur de mon métier est de mettre en place les méthodes
-et outils de développement qui facilitent des livraisons de
-prototypes fonctionnels à intervalles réguliers.
+et outils de développement qui facilitent la livraison de
+prototypes à intervalles réguliers.
 
 Afin de répondre le mieux aux besoins des usagers, je
 propose une démarche itérative qui permet de vérifier à tout
@@ -59,7 +58,6 @@ collaboratifs et locaux avec des morceaux de carte dedans.
 ### sur mon cv:
 
 - [long](http://richardhitier.co-libri.org/richard_hitier.pdf)
-- [court](http://richardhitier.co-libri.org/richard_hitier.pdf)
 
 ### ou par contact direct:
 
