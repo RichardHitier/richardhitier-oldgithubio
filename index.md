@@ -9,27 +9,30 @@ description: ""
 ## Bonjour,
 
 Je suis développeur spécialisé en environnement
-GUN/Linux depuis 18 ans et je construis des applications
+GNU/Linux depuis 18 ans et je construis des applications
 robustes et évolutives avec les technologies du Logiciel
 Libre.
-
-Afin de répondre au mieux aux besoins des usagers, j'utilise
-une approche agile qui garantit un produit opérationnel à
-chaque point d'étape.
 
 Le coeur de mon métier est de mettre en place les méthodes
 et outils de développement qui facilitent des livraisons de
 prototypes fonctionnels à intervalles réguliers.
 
-À chaque itération on peut alors vérifier l'avancée du chantier
-par rapport aux objectifs initiaux: c'est cette dynamique
-d'interaction courte entre les différents intervenants 
-qui alimentera notre motivation.
+Afin de répondre le mieux aux besoins des usagers, je
+propose une démarche itérative qui permet de vérifier à tout
+moment la conformité du produit.
+Cette dynamique d'interaction courte entre les différents
+intervenants maximise la motivation de tous, et garantit un
+produit fonctionnel à chaque point d'étape.
 
-Mon projet actuel est de me former aux technos web mobiles
-afin proposer des outils pour les usages collaboratifs et
-locaux avec des morceaux de carte dedans. 
+Mes points forts sont 
 
+- la vue d'ensemble du projet,
+- l'articulation des éléments qui le constituent,
+- le respect des délais.
+
+En parallèle, j'ai le projet de me former aux technos web
+mobiles afin proposer des outils pour les usages
+collaboratifs et locaux avec des morceaux de carte dedans. 
 
 ### Applications Scientifiques:
 
