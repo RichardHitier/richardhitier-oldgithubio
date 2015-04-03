@@ -6,16 +6,18 @@ description: ""
 {% include JB/setup %}
 
 
-## Présentation:
+## Bonjour,
 
-Bonjour, je suis développeur web et je conçois des
-applications accessibles par navigateur ou mobile.
+Je suis développeur spécialisé en environnement
+GUN/Linux depuis 18 ans et je construis des applications
+robustes et évolutives avec les technologies du Logiciel
+Libre.
 
 Afin de répondre au mieux aux besoins des usagers, j'utilise
 une approche agile qui garantit un produit opérationnel à
 chaque point d'étape.
 
-Le coeur de mon métier c'est de mettre en place les méthodes
+Le coeur de mon métier est de mettre en place les méthodes
 et outils de développement qui facilitent des livraisons de
 prototypes fonctionnels à intervalles réguliers.
 
@@ -24,11 +26,14 @@ par rapport aux objectifs initiaux: c'est cette dynamique
 d'interaction courte entre les différents intervenants 
 qui alimentera notre motivation.
 
-## Offres typiques:
+Mon projet actuel est de me former aux technos web mobiles
+afin proposer des outils pour les usages collaboratifs et
+locaux avec des morceaux de carte dedans. 
+
 
 ### Applications Scientifiques:
 
-      En collaboration avec les chercheurs, j'élabore des architectures web complexes pour le traitement et la visualisation des données scientifiques.
+      En collaboration avec les chercheurs, j'élabore des architectures web complexes pour l'archivage, le traitement et la visualisation des données scientifiques.
 
 ### Vie locale
 
@@ -42,15 +47,16 @@ qui alimentera notre motivation.
 
 ### sur mes profils web
 
-[linkedin](http://fr.linkedin.com/in/richardhitier/)
-[twitter](https://twitter.com/RichardHitier)
-[github](https://github.com/RichardHitier)
-[osm](https://www.openstreetmap.org/user/RichardHitier)
-[umap](http://umap.openstreetmap.fr/en/user/RichardHitier/)
+- [linkedin](http://fr.linkedin.com/in/richardhitier/)
+- [twitter](https://twitter.com/richardhitier)
+- [github](https://github.com/richardhitier)
+- [osm](https://www.openstreetmap.org/user/RichardHitier)
+- [umap](http://umap.openstreetmap.fr/en/user/RichardHitier/)
 
-### sur mon cv complet:
+### sur mon cv:
 
-[cv](http://richardhitier.co-libri.org/)
+- [long](http://richardhitier.co-libri.org/richard_hitier.pdf)
+- [court](http://richardhitier.co-libri.org/richard_hitier.pdf)
 
 ### ou par contact direct:
 
