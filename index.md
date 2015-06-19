@@ -64,7 +64,6 @@ cartes interactives.
 ### visitez mes profils web
 
 - [linkedin](http://fr.linkedin.com/in/richardhitier/)
-- [twitter](https://twitter.com/richardhitier)
 - [github](https://github.com/richardhitier)
 - [osm](https://www.openstreetmap.org/user/RichardHitier)
 - [umap](http://umap.openstreetmap.fr/en/user/RichardHitier/)
