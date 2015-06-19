@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Développeur éclectique devient dev web pour la vie locale"
+title: "Développeur éclectique pour la vie locale"
 description: ""
 ---
 {% include JB/setup %}
@@ -12,9 +12,9 @@ Spécialisé en environnement GNU/Linux depuis 18 ans,
 je construis des systèmes robustes et évolutifs avec les
 technologies des logiciels libres.
 
-Mon coeur de métier est la mettre en place des méthodes
-et outils de développement pour faciliter la livraison de
-prototypes à intervalles réguliers.
+Mon coeur de métier est la mise en place des méthodes et
+outils qui facilitent la livraison de prototypes à
+intervalles réguliers.
 [(plus d'intégration continue)](agile.html#intgration-continue)
 
 Afin de répondre le mieux aux besoins des usagers, je
