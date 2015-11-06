@@ -49,7 +49,9 @@ rajouter un volume physique au groupe logique
     sudo lvextend -l +100%FREE /dev/centos/root
 
 
-redimensionner la partition
+redimensionner la partition, attention, petite astuce,
+`resize2fs` ne  fonctionnera pas sur une partition xfs ...
+donc:
 
     sudo xfs_growfs /dev/mapper/centos-root
 
