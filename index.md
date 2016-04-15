@@ -70,7 +70,7 @@ cartes interactives.
 
 ### consultez mon cv:
 
-- [long](http://richardhitier.co-libri.org/richard_hitier.pdf)
+- [long](http://www.co-libri.org/richard_hitier.pdf)
 
 ### contactez moi directement:
 
