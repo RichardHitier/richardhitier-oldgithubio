@@ -6,7 +6,7 @@ description: ""
 {% include JB/setup %}
 
 
-## Bonjour,
+## Bonjour,,
 
 Spécialisé en environnement GNU/Linux depuis 18 ans,
 je construis des systèmes robustes et évolutifs avec les
